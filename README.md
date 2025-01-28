@@ -6,10 +6,10 @@
 
 Naming conventions:
 
-camelCase - variables, functions, properties inside objects, file names
-PascalCase - component names, class names, types etc
-kebab-case - file names, css classes, ids
-snake_case - not common in js
+> camelCase - variables, functions, properties inside objects, file names
+> PascalCase - component names, class names, types etc
+> kebab-case - file names, css classes, ids
+> snake_case - not common in js
 
 React rules:
 
@@ -19,9 +19,9 @@ React rules:
 
 Component:
 
-In React, a component is essentially a JavaScript function or class that returns JSX (JavaScript XML), a synatx extension that allows you to write HTML-like code inside JavaScript. Components are the building blocks of any React application, allowing for the creation of complex and interactive user iterfaces through the assembly of isolated, reusable pieces.
+- In React, a component is essentially a JavaScript function or class that returns JSX (JavaScript XML), a synatx extension that allows you to write HTML-like code inside JavaScript. Components are the building blocks of any React application, allowing for the creation of complex and interactive user iterfaces through the assembly of isolated, reusable pieces.
 
-You can also use .js extension with React.js components but it's recommended to use .jsx to differentiate between regular JavaScript Files and React.js components.
+- You can also use .js extension with React.js components but it's recommended to use .jsx to differentiate between regular JavaScript Files and React.js components.
 
 There are two ways to create components in React.js:
 
