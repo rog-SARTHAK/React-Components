@@ -6,10 +6,10 @@
 
 Naming conventions:
 
-> camelCase - variables, functions, properties inside objects, file names
-> PascalCase - component names, class names, types etc
-> kebab-case - file names, css classes, ids
-> snake_case - not common in js
+- camelCase - variables, functions, properties inside objects, file names
+- PascalCase - component names, class names, types etc
+- kebab-case - file names, css classes, ids
+- snake_case - not common in js
 
 React rules:
 
